@@ -8,11 +8,17 @@ class Program {
 
         int total = int.Parse(Console.ReadLine());
 
+        int[] stall = new int[total];
         
 
     }
 
+    static void Input2initforMarket (int[] stall){
 
+
+
+    }
+ 
 
 
 
