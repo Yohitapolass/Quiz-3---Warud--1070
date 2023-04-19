@@ -10,6 +10,13 @@ class Program {
 
         int[] stall = new int[total];
         
+        for
+
+    }
+
+     static void PrintReserve (){
+
+        
 
     }
 
@@ -19,9 +26,23 @@ class Program {
 
     }
  
+    static void CheckStallReserved (){
 
+        
 
+    }
+ 
+    static void CheckEntranceReserved (){
 
+        
+
+    }
+
+     static void PrintResultMarket (){
+
+        
+
+    }
 
 }
 
