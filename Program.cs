@@ -10,7 +10,16 @@ class Program {
 
         int[] stall = new int[total];
         
-        Input2initforMarket(stall);
+        do {
+            Input2initforMarket(stall);
+
+
+        } while {
+
+            
+
+        }
+
 
     }
 
