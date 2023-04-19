@@ -16,7 +16,7 @@ class Program {
 
         } while {
 
-            
+
 
         }
 
@@ -33,6 +33,14 @@ class Program {
 
         int init1 = int.Parse(Console.ReadLine());
         int init2 = int.Parse(Console.ReadLine());
+        
+        if(init1 > 0){ 
+
+            
+
+        } else {
+
+        }
 
     }
  
