@@ -10,15 +10,15 @@ class Program {
 
         int[] stall = new int[total];
         
-        do {
+        //do {
             Input2initforMarket(stall);
 
 
-        } while {
+        //} while {
 
 
 
-        }
+       // }
 
 
     }
@@ -34,9 +34,9 @@ class Program {
         int init1 = int.Parse(Console.ReadLine());
         int init2 = int.Parse(Console.ReadLine());
 
-        if((init1 && init2) =< 0){
+        if((init1 <= 0 ) && (init2 <= 0)){
 
-            break;
+            //break;
 
         }
         
