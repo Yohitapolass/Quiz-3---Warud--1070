@@ -33,14 +33,22 @@ class Program {
 
         int init1 = int.Parse(Console.ReadLine());
         int init2 = int.Parse(Console.ReadLine());
-        
-        if(init1 > 0){ 
 
-            
+        if((init1 && init2) =< 0){
 
-        } else {
+            break;
 
         }
+        
+       // if(init1 > 0){ 
+
+
+
+      //  } else {
+
+    //    }
+
+
 
     }
  
