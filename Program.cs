@@ -10,7 +10,7 @@ class Program {
 
         int[] stall = new int[total];
         
-        for
+        Input2initforMarket(stall);
 
     }
 
@@ -22,7 +22,8 @@ class Program {
 
     static void Input2initforMarket (int[] stall){
 
-
+        int init1 = int.Parse(Console.ReadLine());
+        int init2 = int.Parse(Console.ReadLine());
 
     }
  
